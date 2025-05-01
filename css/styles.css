@@ -1,7 +1,6 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 body {
@@ -81,7 +80,7 @@ body {
 }
 
 .post-content-title {
-    font-size: 18px;
+    font-size: 28px;
     font-weight: bold;
     margin-top: 5px;
 }
@@ -94,8 +93,9 @@ body {
 }
 
 .post-content-text-autor {
+    margin-top: 15px;
     font-size: 9px;
-    margin-bottom: 5px;
+    margin-bottom: 15px;
     font-weight: bold;
 }
 
